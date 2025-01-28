@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Swift: forgetting to include parameter labels when calling functions with named parameters. The example shows the correct and incorrect ways to call a function that calculates the area of a rectangle. The solution shows how to fix the error by adding the necessary parameter label.
